@@ -24,10 +24,10 @@ Users should be able to:
 
 ### Screenshot
 
-- [Mid Desktop view](./design/desktop-mid-view.png)
-- [Desktop view](./design/desktop-view.png)
-- [Mobile view](./design/mobile-view.png)
-- [Mobile active view](./design/mobile-active.png)
+![Mid Desktop view](./design/desktop-mid-view.png)
+![Desktop view](./design/desktop-view.png)
+![Mobile view](./design/mobile-view.png)
+![Mobile active view](./design/mobile-active.png)
 
 
 
